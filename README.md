@@ -74,6 +74,20 @@ Challenges with Current Process:
 ⚠ Scalability Issues – No firm-wide standardized mechanism for failure tracking.
 
 
+Process to Create an Asteroid Job for File Transfer
+Steps to Request an Asteroid Job:
+1️⃣ Raise an Incident – Submit a request to the Asteroid team with required details.
+2️⃣ Provide Source & Destination Details:
+
+Source IP Address – Location from where the file will be sent.
+Destination IP Address – Target system where the file needs to be transferred.
+3️⃣ Define File Transfer Parameters:
+File format, size, frequency, and transmission schedule.
+4️⃣ Asteroid Team Configuration:
+Team sets up the job and enables file transfer.
+5️⃣ Testing & Validation:
+Verify file transfer functionality and confirm successful transmission.
+✅ Once setup is complete, the job will run as per the defined schedule.
 
 You said:
 Give me 2 line summary
