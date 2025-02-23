@@ -58,6 +58,21 @@ Open for questions/discussion.
 Do you want me to design a PPT for you as well?
 
 
+Slide Title: Business Requirements & Current Challenges
+Business Requirements:
+✅ Secure & Fast File Transfers – Ensure reliable and encrypted SFTP-based transmission.
+✅ Automated Failure Detection – Centralized alerting mechanism via MQ and Sockeye.
+✅ Scalability & Standardization – Generic solution for seamless adoption across teams.
+✅ Traceability & Compliance – End-to-end tracking for audit and troubleshooting.
+✅ Minimized Downtime – Reduce manual intervention and improve issue resolution time.
+
+Challenges with Current Process:
+⚠ Manual Monitoring – Teams manually check file transfers, causing delays.
+⚠ Lack of Centralized Alerts – No automated system to notify failures instantly.
+⚠ Team-Specific Configurations – Different teams use different failure-handling approaches.
+⚠ Delayed Incident Resolution – Failures are detected late, impacting business operations.
+⚠ Scalability Issues – No firm-wide standardized mechanism for failure tracking.
+
 
 
 You said:
